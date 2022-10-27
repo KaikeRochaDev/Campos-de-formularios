@@ -1,4 +1,4 @@
-# Campo-de-formularios
+# Campos-de-formularios
 #Formulários 
 ![preview](./imgs/preview.png)
 > Escreva a vontade nos campos do formulário
